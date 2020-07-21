@@ -1,6 +1,6 @@
 {
   "name": "base-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base project with all conf files",
   "scripts": {
     "exe": "node scripts/make-executable.js",
